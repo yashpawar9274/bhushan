@@ -37,7 +37,8 @@ const Footer = () => {
           whileInView={{ opacity: 1 }}
           transition={{ delay: 0.3 }}
         >
-          Made by Yash 
+          Made by Bhushan 
+          
         </motion.p>
       </motion.div>
     </footer>
